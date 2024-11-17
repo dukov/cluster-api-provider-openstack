@@ -1,0 +1,7 @@
+configSecret:
+  create: true
+  name: "openstack-variables"
+  namespace: ""
+
+config:
+  some_key: Cg==
